@@ -1,0 +1,8 @@
+git add filename
+git commit -m "message"
+git status
+git push
+git add .
+git commit -am "message"
+git remote -v
+git pull
